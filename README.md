@@ -1,2 +1,2 @@
 # Sali
-Kuntosalisoelliksen testausta
+Kuntosalisovelliksen testausta
